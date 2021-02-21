@@ -1,0 +1,5 @@
+package com.example.springbooth2databaseexample.repository;
+
+public interface StudentRepository extends CrudRepository<Student, Integer>  
+{  
+}  

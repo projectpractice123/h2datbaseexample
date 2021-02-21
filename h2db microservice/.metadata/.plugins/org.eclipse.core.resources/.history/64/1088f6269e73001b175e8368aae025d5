@@ -1,0 +1,6 @@
+package com.example.springbooth2databaseexample.controller;
+
+@RestController 
+public class StudentController {
+
+}

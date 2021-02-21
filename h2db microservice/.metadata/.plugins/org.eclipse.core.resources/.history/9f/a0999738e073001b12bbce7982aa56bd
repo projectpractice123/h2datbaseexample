@@ -1,0 +1,10 @@
+package com.example.springbooth2databaseexample.repository;
+
+ 
+import com.example.springbooth2databaseexample.model.Student;
+
+
+@Repository	
+public interface StudentRepository extends CrudRepository<Student, Integer>  
+{  
+}  	

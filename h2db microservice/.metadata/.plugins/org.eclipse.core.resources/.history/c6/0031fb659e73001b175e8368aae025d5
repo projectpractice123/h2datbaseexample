@@ -1,0 +1,5 @@
+package com.example.springbooth2databaseexample.service;
+
+public class StudentService {
+
+}
